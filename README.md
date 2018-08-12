@@ -13,12 +13,12 @@ Due to the nature of this plugin, I cannot guaruntee that any feature will work 
 
 **Chrome**
 1. Install & Configure [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) from the Chrome Web Store.
-2. Navigate to [the userscript in this repository](https://gitlab.com/notmike101/ofw-suite/blob/master/ofwsuite.user.js) and click on "raw", or [click this link](https://gitlab.com/notmike101/ofw-suite/raw/master/ofwsuite.user.js)
+2. Navigate to [the userscript in this repository](https://github.com/IRDeNial/ofw-suite/blob/master/ofwsuite.user.js) and click on "raw", or [click this link](https://github.com/IRDeNial/ofw-suite/raw/master/ofwsuite.user.js)
 3. Install using default settings
 
 **FireFox**
 1. Install [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) from the FireFox Addon Website.
-2. Navigate to [the userscript in this repository](https://gitlab.com/notmike101/ofw-suite/blob/master/ofwsuite.user.js) and click on "raw", or [click this link](https://gitlab.com/notmike101/ofw-suite/raw/master/ofwsuite.user.js)
+2. Navigate to [the userscript in this repository](https://github.com/IRDeNial/ofw-suite/blob/master/ofwsuite.user.js) and click on "raw", or [click this link](https://github.com/IRDeNial/ofw-suite/raw/master/ofwsuite.user.js)
 3. Install using default settings
 
 **Other browsers**
